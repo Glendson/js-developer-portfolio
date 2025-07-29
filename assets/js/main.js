@@ -20,7 +20,16 @@ function updateProfileInfo(profileData) {
     const email = document.getElementById('profile.email')
     email.innerText = profileData.email
     email.href = `mailto:${profileData.email}`
+
+    const github = document.getElementById('profile.github')
+    if (profileData.github) {
+        github.href = profileData.github
+        github.style.display = 'inline-block'
+    } else {
+        github.style.display = 'none'
+    }
 }
+
 
 function updateSoftSkills(profileData) {
     const softSkills = document.getElementById('profile.skills.softSkills')
@@ -64,6 +73,10 @@ function updateProfessionalExperience(profileData) {
 
 (async () => {
     const profileData = await fetchProfileData()
+    if (!profileData) {
+        console.error('Profile data is null or undefined. Aborting update.')
+        return
+    }
     updateProfileInfo(profileData)
     updateSoftSkills(profileData)
     updateHardSkills(profileData)

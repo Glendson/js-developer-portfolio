@@ -1,78 +1,157 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Glendson Zeus",
+  "photo": "https://avatars.githubusercontent.com/u/110988949?v=4",
+  "job": "Desenvolvedor FullStack especializado em JavaScript, TypeScript e React, com experiência em projetos web e mobile. Apaixonado por criar soluções eficientes e es",
+  "location": "Lisboa",
+  "phone": "",
+  "email": "",
+  "github": "https://github.com/Glendson",
   "skills": {
-    "hardSkills": [
-      {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
-      {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
-      },
-      {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
-      }
-    ],
-    "softSkills": [
-      "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
-    ]
+    "hardSkills": [],
+    "softSkills": []
   },
-  "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
-  ],
+  "languages": [],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "api---rest",
+      "url": "https://github.com/Glendson/api---rest",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "api-solid",
+      "url": "https://github.com/Glendson/api-solid",
+      "github": true
+    },
+    {
+      "name": "chatgpt-msg",
+      "url": "https://github.com/Glendson/chatgpt-msg",
+      "github": true
+    },
+    {
+      "name": "clean-DDD",
+      "url": "https://github.com/Glendson/clean-DDD",
+      "github": true
+    },
+    {
+      "name": "coffee-delivery",
+      "url": "https://github.com/Glendson/coffee-delivery",
+      "github": true
+    },
+    {
+      "name": "desafio-hero-nivel",
+      "url": "https://github.com/Glendson/desafio-hero-nivel",
+      "github": true
+    },
+    {
+      "name": "desafio-youtube",
+      "url": "https://github.com/Glendson/desafio-youtube",
+      "github": true
+    },
+    {
+      "name": "design-system",
+      "url": "https://github.com/Glendson/design-system",
+      "github": true
+    },
+    {
+      "name": "dio-lab-open-source",
+      "url": "https://github.com/Glendson/dio-lab-open-source",
+      "github": true
+    },
+    {
+      "name": "dio-lab-portfolio",
+      "url": "https://github.com/Glendson/dio-lab-portfolio",
+      "github": true
+    },
+    {
+      "name": "github-blog",
+      "url": "https://github.com/Glendson/github-blog",
+      "github": true
+    },
+    {
+      "name": "glendson",
+      "url": "https://github.com/Glendson/glendson",
+      "github": true
+    },
+    {
+      "name": "god-frontend-code-test-1",
+      "url": "https://github.com/Glendson/god-frontend-code-test-1",
+      "github": true
+    },
+    {
+      "name": "ignite-call",
+      "url": "https://github.com/Glendson/ignite-call",
+      "github": true
+    },
+    {
+      "name": "ignitefleet",
+      "url": "https://github.com/Glendson/ignitefleet",
+      "github": true
+    },
+    {
+      "name": "ignitegym",
+      "url": "https://github.com/Glendson/ignitegym",
+      "github": true
+    },
+    {
+      "name": "js-developer-pokedex",
+      "url": "https://github.com/Glendson/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "js-yugioh-assets",
+      "url": "https://github.com/Glendson/js-yugioh-assets",
+      "github": true
+    },
+    {
+      "name": "listagem",
+      "url": "https://github.com/Glendson/listagem",
+      "github": true
+    },
+    {
+      "name": "nest-clean",
+      "url": "https://github.com/Glendson/nest-clean",
+      "github": true
+    },
+    {
+      "name": "pizzashop-web",
+      "url": "https://github.com/Glendson/pizzashop-web",
+      "github": true
+    },
+    {
+      "name": "portifolio-v1",
+      "url": "https://github.com/Glendson/portifolio-v1",
+      "github": true
+    },
+    {
+      "name": "projeto-discord",
+      "url": "https://github.com/Glendson/projeto-discord",
+      "github": true
+    },
+    {
+      "name": "QA-CRUD",
+      "url": "https://github.com/Glendson/QA-CRUD",
+      "github": true
+    },
+    {
+      "name": "to-do-list",
+      "url": "https://github.com/Glendson/to-do-list",
+      "github": true
+    },
+    {
+      "name": "trilha-css-desafio-01",
+      "url": "https://github.com/Glendson/trilha-css-desafio-01",
+      "github": true
+    },
+    {
+      "name": "trilha-html-modulo-1",
+      "url": "https://github.com/Glendson/trilha-html-modulo-1",
+      "github": true
+    },
+    {
+      "name": "trilha-html-modulo-3",
+      "url": "https://github.com/Glendson/trilha-html-modulo-3",
       "github": true
     }
   ],
-  "professionalExperience": [
-    {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
-    }
-  ]
+  "professionalExperience": []
 }

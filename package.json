@@ -1,0 +1,15 @@
+{
+  "name": "js-developer-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio project with automated GitHub profile update",
+  "main": "index.js",
+  "scripts": {
+    "update-profile": "node fetch_github_profile.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
