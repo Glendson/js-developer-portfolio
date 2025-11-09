@@ -118,6 +118,11 @@
       "github": true
     },
     {
+      "name": "minimal-api",
+      "url": "https://github.com/Glendson/minimal-api",
+      "github": true
+    },
+    {
       "name": "nest-clean",
       "url": "https://github.com/Glendson/nest-clean",
       "github": true
@@ -163,8 +168,18 @@
       "github": true
     },
     {
+      "name": "trilha-net-explorando-desafio",
+      "url": "https://github.com/Glendson/trilha-net-explorando-desafio",
+      "github": true
+    },
+    {
       "name": "trilha-net-fundamentos-desafio",
       "url": "https://github.com/Glendson/trilha-net-fundamentos-desafio",
+      "github": true
+    },
+    {
+      "name": "trilha-net-poo-desafio",
+      "url": "https://github.com/Glendson/trilha-net-poo-desafio",
       "github": true
     }
   ],
